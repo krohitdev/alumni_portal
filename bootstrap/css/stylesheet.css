@@ -1,0 +1,217 @@
+.page-content-body p, .page-content-body ul, .page-content-body ol, .page-content-body dl {
+    /* font-size: 14px; */
+}
+p {
+    margin-bottom: 1.6em;
+    line-height: 1.6;
+    font-size: 14px;
+    font-family: "Montserrat-Light";
+}
+
+.eventimg
+{
+	height:100px;
+	width:100px;
+	position:relative;
+	
+}
+.pic-text
+{
+	position:relative;
+	border:1px solid red;
+	transition:3s margin ease;
+}
+.slidertext
+{
+	position:relative;
+}
+.para1
+			{
+				
+				height:100px;
+				width:100px;
+				background-color:lightgreen;
+				border-radius:50px;
+				position:relative;
+				transition:margin 2s ease;
+				
+			}
+			.para1:hover
+			{
+				position:relative;
+				margin-top:200px;
+				transition:margin 2s ease;
+				background-color:lightblue;
+			}
+
+			
+.login {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+    padding-right: 0;
+}			
+
+.upcoming-event {
+    padding: 55px 0;
+    background-color: #faf9f9;
+}			
+.upcoming-event .area-top {
+    color: #2d2d2d;
+}
+.upcoming-event .area-top h2 {
+    line-height: 1.2;
+    margin: 14px 0;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.heading-light, .text-light {
+    font-family: "Montserrat-Light";
+    line-height: 2;
+}
+
+.upcoming-event .area-top .area-calendar {
+    background-color: #ebebeb;
+    text-align: center;
+    float: left;
+    width: 70px;
+    height: 90px;
+    line-height: 1.4;
+    padding-top: 5px;
+}
+
+.upcoming-event .area-top .area-calendar .day {
+    font-size: 27px;
+    color: #2d2d2d;
+}
+
+.upcoming-event .area-top .area-calendar span {
+    clear: both;
+    float: left;
+    width: 100%;
+}
+.upcoming-event .area-top .area-calendar .month {
+    font-size: 14px;
+    color: #2d2d2d;
+    padding-bottom: 5px;
+}
+.upcoming-event .area-top .area-calendar .year {
+    background-color: #dadada;
+    font-size: 14px;
+    color: #595959;
+    padding: 3px 0;
+}
+
+.upcoming-event .area-bottom {
+    padding-top: 88px;
+}
+.upcoming-event .area-bottom {
+    vertical-align: middle;
+}
+.upcoming-event .area-bottom .join-now {
+    color: #fff;
+    font-size: 18px;
+    padding: 22px 80px;
+    margin-top: 7px;
+    font-family: "Montserrat-Bold";
+}
+.upcoming-event .area-bottom .join-now {
+    color: #fff;
+    font-size: 18px;
+    padding: 22px 80px;
+    margin-top: 7px;
+    font-family: "Montserrat-Bold";
+}
+
+
+.alumni-dashboard {
+    padding: 75px 0;
+}
+.alumni-dashboard .title-dashboard {
+    color: #484848;
+    margin-bottom: 35px;
+}
+.title.type1 {
+    position: relative;
+    padding-bottom: 22px;
+}
+
+.title.type1:before {
+    content: "";
+    background-color: #000;
+    width: 38px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.heading-light, .text-light {
+    font-family: "Montserrat-Light";
+}
+.no-margin {
+    margin: 0 !important;
+}
+.alumni-dashboard .area-content .mail-icon {
+    background-image: url(../images/message-icon.png);
+}
+.alumni-dashboard .area-content .icon {
+    width: 45px;
+    height: 30px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+.alumni-dashboard .area-content .box-content h4 {
+    margin: 22px 0 30px;
+    color: #484848;
+}
+.heading-regular, .text-regular {
+    font-family: "Montserrat-Regular";
+}
+.alumni-dashboard .area-content .box-content p {
+    line-height: 1.8;
+}
+.heading-light, .text-light {
+    font-family: "Montserrat-Light";
+}
+.alumni-dashboard .area-content .account-icon {
+    background-image: url(../images/account-icon.png);
+}
+.alumni-dashboard .area-content .icon {
+    width: 45px;
+    height: 30px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.heading-regular, .text-regular {
+    font-family: "Montserrat-Regular";
+}
+
+.alumni-dashboard .area-content .box-content h4 {
+    margin: 22px 0 30px;
+    color: #484848;
+}
+.alumni-dashboard .login-dashboard {
+    margin-top: 50px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.alumni-dashboard .login-dashboard a {
+    padding: 18px 32px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: "Montserrat-Bold";
+    font-size: 15px;
+    display: inline-block;
+    letter-spacing: 1px;
+	text-decoration:none;
+}
+.bg-color-theme, .bnt-theme {
+    background-color: #f7ca18;
+}

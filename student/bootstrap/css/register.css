@@ -1,0 +1,56 @@
+
+.myprofile{
+    height:127px;
+    width:127px;
+    margin:auto;
+    position:relative;
+}
+.myprofile1{
+    height:15px;
+    width:127px;
+    margin:auto;
+    position:relative;
+}
+.profile_pic1
+{
+	height:127px;
+	width:127px;
+    /* border:2px solid black; */
+    border-radius:50%;
+    position:absolute;
+}
+.p_pic{
+    height:127px;
+    width:127px;
+    border-radius:50%;
+    position:absolute;
+	left:-0.5px;
+}
+.centered
+{
+	
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.inputfile2
+{
+
+    height:127px;
+    width:127px;
+    /* border:2px solid black; */
+    border-radius:50%;
+    position:absolute;
+    opacity:0;
+	
+}
+.inputfile1
+{
+
+    height:15px;
+    border-radius:50%;
+    position:absolute;
+    opacity:0;
+	
+}

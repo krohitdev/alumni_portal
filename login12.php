@@ -1,0 +1,121 @@
+<?php
+
+include('header.php');
+
+?>
+		
+		
+		<!-- body content -->
+			<div class="container">
+					<div class="page-header">
+						<br>
+						<br>
+						<br>
+						<br>
+						<h1>Login Here</h1>
+						<form method="post" name="login" action="">
+							<div class="form-group">
+								<label for="email">Email ID</label>
+								<input type="text" id="email" name="umail" class="form-control" required> <br>
+								<label for="pswd">Password</label>
+								<input type="text" id="pswd" name="pswd" class="form-control" required> <br>
+								
+								<button  class="btn btn-default">Login</button>
+								
+								
+								
+								
+							</div>
+						
+						</form>
+					</div>
+				
+				
+				<!-- /Page Header -->
+			</div>
+
+		<!-- /body content -->
+		
+		<!-- footer -->
+		<div class="footer-wrapper type2">
+        <footer class="foooter-container">
+            <div class="container">
+                <div class="footer-middle">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-12 col-xs-12 animated footer-col fadeIn">
+                            <div class="contact-footer">
+                                <div class="logo-footer">
+                                    <a href="./homepage-1.php"><img src="images/logo-footer.png" alt=""></a>
+                                </div>
+                                <div class="contact-desc">
+                                    <p class="text-light">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare.</p>
+                                </div>
+                                <div class="contact-phone-email">
+                                    <span class="contact-phone"><a href="#">+10872229</a> | <a href="#">+10872228 </a> </span>
+                                    <span class="contact-email"><a href="#">alumni@sayidan.edu</a></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-sm-12  col-xs-12 animated footer-col fadeIn">
+                            <div class="links-footer">
+                                <div class="row">
+                                    <div class="col-sm-4 col-xs-12">
+                                        <h6 class="heading-bold">DASHBOARD</h6>
+                                        <ul class="list-unstyled no-margin">
+                                            <li><a href="./register-page.php">REGISTER</a></li>
+                                            <li><a href="./career-opportunity.php">CAREER</a></li>
+                                            <li><a href="./alumni-story.php">STORY</a></li>
+                                            <li><a href="./alumni-directory.php">DIRECTORY</a></li>
+                                        </ul>
+                                    </div>
+                                    
+                                    <div class="col-sm-4 col-xs-12">
+                                        <h6 class="heading-bold">ABOUT US</h6>
+                                        <ul class="list-unstyled no-margin">
+                                            <li><a href="./event-single.php">EVENTS</a></li>
+                                            <li><a href="./galery.php">GALLERY</a></li>
+                                            <li><a href="./homepage-1.php">HOMEPAGE V1</a></li>
+                                            <li><a href="./homepage-2.php">HOMEPAGE V2</a></li>
+                                        </ul>
+                                    </div>
+                                    
+                                    <div class="col-sm-4 col-xs-12">
+                                        <h6 class="heading-bold">SUPPORT</h6>
+                                        <ul class="list-unstyled no-margin">
+                                            <li><a href="./job-detail.php">FAQ</a></li>
+                                            <li><a href="./about-us.php#contacts">CONTACT US</a></li>
+                                            <li><a href="./blog.php">ORGANIZER</a></li>
+                                            <li><a href="./blog-single-fullwith.php">SOCIAL</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-12 col-xs-12 animated footer-col fadeIn">
+                            <div class="links-social">
+                                <div class="login-dashboard">
+                                    <a href="./login-page.php" class="bg-color-theme text-center text-regular">Login Dashboard</a>
+                                </div>
+                                <ul class="list-inline text-center">
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-bottom text-center">
+                    <p class="copyright text-light">©2017 Alumni Association of the KCL-IMT</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+	<!-- /footer -->
+	
+	</div>
+	<!-- /main wrapper -->
+	</body>
+</html>
+	
+		
